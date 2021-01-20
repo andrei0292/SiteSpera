@@ -527,11 +527,11 @@
   /***/
   function _(module, exports, __webpack_require__) {
     __webpack_require__(
-    /*! C:\Users\andre\Desktop\Spera\tuja\src\styles.css */
+    /*! C:\Users\andre\Desktop\Proiecte\angular\Spera\tuja\src\styles.css */
     "./src/styles.css");
 
     module.exports = __webpack_require__(
-    /*! C:\Users\andre\Desktop\Spera\tuja\node_modules\aos\dist\aos.css */
+    /*! C:\Users\andre\Desktop\Proiecte\angular\Spera\tuja\node_modules\aos\dist\aos.css */
     "./node_modules/aos/dist/aos.css");
     /***/
   }
